@@ -1,1 +1,1 @@
-# 3110-Tutorial-Project ***By Jeffrey Li***
+# 3110-Tutorial-Project 
